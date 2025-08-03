@@ -2,7 +2,7 @@
 
 ## https://www.youtube.com/watch?v=-GA1Pgyrly0&t=96s
 
-<p>Faydalı Uygulamalar 10 adet modül ve alt modüllerden oluşmaktadır.
+Faydalı Uygulamalar 10 adet modül ve alt modüllerden oluşmaktadır.
 
 <img width="411" height="417" alt="image" src="https://github.com/user-attachments/assets/ea3b3572-e4e8-432f-8ec7-f81322cbe4f9" />
 
