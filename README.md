@@ -1,8 +1,8 @@
 # Proje-1-Faydalı-Uygulamalar
 
-## https://www.youtube.com/watch?v=7CYH-PGR3mA
+## https://www.youtube.com/watch?v=-GA1Pgyrly0&t=96s
 
-Faydalı Uygulamalar 10 adet modül ve alt modüllerden oluşmaktadır.
+<p>Faydalı Uygulamalar 10 adet modül ve alt modüllerden oluşmaktadır.
 
 <img width="411" height="417" alt="image" src="https://github.com/user-attachments/assets/ea3b3572-e4e8-432f-8ec7-f81322cbe4f9" />
 
